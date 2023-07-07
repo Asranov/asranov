@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello there, i am Asranov Baxtnur
 🌱 I’m currently learning React Native<br><br>📫 How to reach me asranov0003@gmail.com<br><br>⚡ I enjoy solving programming puzzles and have completed  puzzle challenges.
 
 
