@@ -1,4 +1,4 @@
-# 💫 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+i+am+Asranov+Baxtnur" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+i+am+Asranov+Baxtnur" alt="Typing SVG" /></a>
 🌱 I’m currently learning React Native<br><br>📫 How to reach me asranov0003@gmail.com<br><br>⚡ I enjoy solving programming puzzles and have completed  puzzle challenges.
 
 
