@@ -1,4 +1,5 @@
 # 💫 Hello there, i am Asranov Baxtnur
+<img src="https://camo.githubusercontent.com/5cb874f7ca79deecabef141d31683d7c0e8e0f71aea9cce99fa3e6cb51b6c8ce/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48692c2b5468657265212bf09f918b3b546869732b69732b4d6162727572f09f91a8e2808df09f92bb2663656e7465723d747275652673697a653d3330" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Asranov👨‍💻&amp;center=true&amp;size=30" style="max-width: 100%;">
 🌱 I’m currently learning React Native<br><br>📫 How to reach me asranov0003@gmail.com<br><br>⚡ I enjoy solving programming puzzles and have completed  puzzle challenges.
 
 
